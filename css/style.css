@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    font-size: 5em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3 {
+    text-align: center;
+}
+.centro{
+    width: 640px;
+    margin: 0 auto 0 auto;
+}
